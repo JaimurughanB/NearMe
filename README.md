@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE0
+````
 <html>
 <head>
 <title>My Home Town</title>
@@ -40,10 +41,13 @@ Execute the programs and publish them.
 <p align="justify">
 <font face="Georgia" size="5">
     By train: Gudiyattam Railway Station (GDM).,By road: Well connected via buses from Vellore, Chennai, Tirupati, and Bengaluru.
+    
+    
 </p>
 </body>
 </html>
 Sri Balaji Theatre
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -62,7 +66,9 @@ Sri Balaji Theatre
 </p>
 </body>
 </html>
+
 HOSPITAL.HTML
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -80,7 +86,9 @@ HOSPITAL.HTML
  Global Hearing Aid Centre is a specialized hearing clinic in Chennai, dedicated to providing personalized care for individuals with hearing impairments. Their team of certified audiologists offers comprehensive services, including hearing evaluations, rehabilitation treatments, hearing device provision, and counseling. </p>
 </body>
 </html>
+
 park.html
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -96,10 +104,13 @@ park.html
 <p align="justify">
 <font face="Georgia" size="5">
     Gudiyattam is very famous for handwoven lungis and sarees.
+
 Especially cotton lungis — they are exported to many places.</p>
 </body>
 </html>
+
 temple.html
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -117,7 +128,7 @@ temple.html
 </p>
 </body>
 </html>
-
+````
 
 
 ## OUTPUT
